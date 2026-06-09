@@ -17,7 +17,7 @@
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/your-username/SubscriptionApp.git
+git clone https://github.com/evvlboro/MSTech-L.L.C-FZ-SubscriptionApp
 cd SubscriptionApp
 ```
 
