@@ -17,8 +17,8 @@
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/your-username/SubscriptionApp.git
-cd SubscriptionApp
+git clone https://github.com/evvlboro/MSTech-L.L.C-FZ-SubscriptionApp
+cd MSTech-L.L.C-FZ-SubscriptionApp
 ```
 
 ### 2. Установи зависимости
